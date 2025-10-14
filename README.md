@@ -1,81 +1,116 @@
+<h1 align="center">🌌 Hey There, I'm <span style="color:#00FFFF;">Joshin K Thomas</span> 👋</h1>
 
-<h1 align="center">Hey There, I'm Joshin K Thomas😊</h1>
+<p align="center">
+  <b>💻 Computer Science Enthusiast</b> | <b>🔐 Cybersecurity Learner</b> | <b>🎮 Game Developer</b> | <b>🎨 UI/UX Designer</b>
+</p>
 
-   
-🚀 About Me
+---
 
-✨ Hello, World! I'm a passionate Computer Science Enthusiast who loves exploring the realms of Cybersecurity, AI, Game Development, and UI/UX Design! 🌍💻.🔥 I thrive on solving complex problems and building innovative projects that make an impact. Let's create something awesome together!  🚀
+## 🚀 About Me  
 
+Hey there! 🌍  
+I’m a passionate **Computer Science enthusiast** diving deep into **Cybersecurity**, **AI**, **Game Development**, and **UI/UX Design**.  
 
-## 🌟 What I Do
-- 🛠️ Build innovative projects in **Cybersecurity, AI and Game Development**.
-- 🔍 Constantly learning and improving my **problem-solving skills**.
-- 🎯 Participating in **Hackathons & Coding Competitions**.
-- 🤝 Contributing to **Open Source & Community Development**.
+💡 I love turning complex ideas into meaningful digital solutions — blending creativity with technology to make a real impact.  
+Let’s innovate, collaborate, and build something extraordinary together! ⚡  
 
-## 🛠️ Technologies & Tools
+---
 
-### Languages:
-- **Python** 🐍 | **Java** ☕ | **C++** 🔗 | **JavaScript**
+## 🌟 What I Do  
 
-### Development & Tools:
-- **Git & GitHub** 🔥 | **VS Code** 🖥️ | **Linux** 🐧 | **Docker** 🐳 | **Bash** 💻
+- 🧠 Develop creative projects in **Cybersecurity**, **AI**, and **Game Development**  
+- 💻 Continuously enhance my **coding and problem-solving skills**  
+- 🎯 Participate in **Hackathons & Coding Competitions**  
+- 🤝 Contribute to **Open Source and Developer Communities**
 
-### UI/UX & Design:
-- **Figma** 🎨 | **Adobe XD** 🖌️ | **Canva** 📐 | **Blender** 🏗️
+---
 
-### Interests: 
-- **Game Development 🎮** (Unity, Unreal Engine)
-- **Cybersecurity 🔐** (CTF Challenges, Ethical Hacking)
-- **Data Analytics 📊** (Pandas, NumPy, Power BI)
-- **Artificial Intelligence 🤖** (Machine Learning, Neural Networks)
+## 🧰 Tech Stack  
 
-## 📊 GitHub Stats & Contributions
+### 💻 Languages  
+`Python 🐍` | `Java ☕` | `C++ 🔗` | `JavaScript ⚡`
+
+### ⚙️ Development Tools  
+`Git & GitHub 🔥` | `VS Code 🖥️` | `Linux 🐧` | `Docker 🐳` | `Bash 💻`
+
+### 🎨 Design Tools  
+`Figma 🎨` | `Adobe XD 🖌️` | `Canva 📐` | `Blender 🏗️`
+
+### 🌐 Domains of Interest  
+- 🎮 **Game Development:** Unity, Unreal Engine  
+- 🔐 **Cybersecurity:** Ethical Hacking, CTFs  
+- 📊 **Data Analytics:** Pandas, NumPy, Power BI  
+- 🤖 **AI & ML:** Neural Networks, Automation  
+
+---
+
+## 📊 GitHub Insights  
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshin-07&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshin-07&show_icons=true&theme=tokyonight&border_radius=10)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshin-07&layout=compact&theme=tokyonight&border_radius=10)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshin-07&layout=compact&theme=radical)
 </div>
 
- ## 📊 My Contribution Graph
+---
 
-![Malavika's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshin-07&theme=merko&height=300)
+## 🌱 Contribution Graph  
 
-
-## 🚀 Current Projects & Goals
-### 🔥 Ongoing Projects:
-- Building a **To-Do List** project on GitHub 📝
-- Exploring **Cybersecurity** & **Game Development** 🔍
-- Developing an **AI-Powered Chatbot 🤖**
-- Learning **Blockchain & Smart Contracts** ⛓️
-
-## 🎉 Fun Facts About Me
-- 🎵 I love listening to **Lofi & EDM** while coding.
-- 🎨 I enjoy designing **Minimalist UI/UX**.
-- 🎮 I play **competitive online games** in my free time.
-- 🚀 I believe in **“Code More, Worry Less”**!
-- 🌍 I love traveling and exploring new places.
-
-Thanks for stopping by! 😊 Feel free to connect and collaborate!
-
-## 🌍 Connect With Me
 <div align="center">
-<a href="https://www.linkedin.com/in/malavikakrishnan30" style="text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=krismaalu@gmail.com" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
+
+![Joshin’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshin-07&theme=tokyo-night&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&height=300)
 
 </div>
 
+---
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0324.gif" height="1px" width="1920"/>
+## 🚧 Current Projects  
 
-<div align='center'>
-  
-  <em>"Talk is cheap. Show me the code." — Linus Torvalds 🚀</em>
+- 📝 Developing a **To-Do List Web App**  
+- 🔍 Exploring **Cybersecurity & Game Development**  
+- 🤖 Building an **AI Chatbot**  
+- ⛓️ Learning **Blockchain & Smart Contracts**
 
+---
+
+## 🎉 Fun Facts  
+
+- 🎵 Coding playlists: **Lofi & EDM**  
+- 🎨 Love for **minimalist UI design**  
+- 🎮 Competitive **online gamer**  
+- 🚀 Motto: *“Code More, Worry Less.”*  
+- 🌍 Passionate traveler & lifelong learner  
+
+---
+
+## 🌐 Connect With Me  
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/malavikakrishnan30" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:krismaalu@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
+  </a>
 </div>
 
+---
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0324.gif" height="1px" width="1920"/>
+
+
+<p align="center">
+  <em style="color:#00FFFF;">“Talk is cheap. Show me the code.” — Linus Torvalds ⚡</em>
+</p>
+
+---
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Malavika-Krishnan/Malavika-Krishnan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Malavika-Krishnan/Malavika-Krishnan/output/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Malavika-Krishnan/Malavika-Krishnan/output/github-snake-dark.svg" />
+</picture>
+</p>
 
