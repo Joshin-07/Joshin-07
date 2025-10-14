@@ -31,10 +31,10 @@ Let’s innovate, collaborate, and build something extraordinary together! ⚡
 `Python 🐍` | `Java ☕` | `C++ 🔗` | `JavaScript ⚡`
 
 ### ⚙️ Development Tools  
-`Git & GitHub 🔥` | `VS Code 🖥️` | `Linux 🐧` | `Docker 🐳` | `Bash 💻`
+`Git & GitHub 🔥` | `VS Code 🖥️` | `Linux 🐧` | `Bash 💻`|
 
 ### 🎨 Design Tools  
-`Figma 🎨` | `Adobe XD 🖌️` | `Canva 📐` | `Blender 🏗️`
+`Figma 🎨` | `Adobe XD 🖌️` | `Canva 📐` | 
 
 ### 🌐 Domains of Interest  
 - 🎮 **Game Development:** Unity, Unreal Engine  
@@ -88,10 +88,10 @@ Let’s innovate, collaborate, and build something extraordinary together! ⚡
 ## 🌐 Connect With Me  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/malavikakrishnan30" target="_blank">
+  <a href="https://www.linkedin.com/in/in/joshin-k-thomas" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="mailto:krismaalu@gmail.com" target="_blank">
+  <a href="mailto:joshinkthomas07@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
   </a>
 </div>
