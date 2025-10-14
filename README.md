@@ -1,8 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-
- 
-<h1 align="center">Hey There, I'm Malavika Krishnan😊</h1>
+<h1 align="center">Hey There, I'm Joshin K Thomas😊</h1>
 
    
 🚀 About Me
@@ -36,15 +33,15 @@
 ## 📊 GitHub Stats & Contributions
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malavika-Krishnan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshin-07&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malavika-Krishnan&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshin-07&layout=compact&theme=radical)
 </div>
 
  ## 📊 My Contribution Graph
 
-![Malavika's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Malavika-Krishnan&theme=merko&height=300)
+![Malavika's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshin-07&theme=merko&height=300)
 
 
 ## 🚀 Current Projects & Goals
@@ -90,4 +87,3 @@ Thanks for stopping by! 😊 Feel free to connect and collaborate!
  ---
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
