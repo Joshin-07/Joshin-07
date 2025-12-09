@@ -42,18 +42,6 @@ Let’s innovate, collaborate, and build something extraordinary together! ⚡
 
 ---
 
-## 📊 GitHub Insights  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshin-07&show_icons=true&theme=tokyonight&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshin-07&layout=compact&theme=tokyonight&border_radius=10)
-
-</div>
-
----
-
 ## 🌱 Contribution Graph  
 
 <div align="center">
