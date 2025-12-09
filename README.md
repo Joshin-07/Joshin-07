@@ -1,7 +1,7 @@
 <h1 align="center">🌌 Hey There, I'm <span style="color:#00FFFF;">Joshin K Thomas</span> 👋</h1>
 
 <p align="center">
-  <b>💻 Computer Science Enthusiast</b> | <b>🔐 Cybersecurity Learner</b> | <b>🎮 Game Developer</b> | <b>🎨 UI/UX Designer</b>
+  <b>💻 Computer Science Enthusiast</b> | <b>🔐 Cybersecurity Learner</b> | <b>🎮 Full Stack Developer</b> |
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 
 Hey there! 🌍  
-I’m a passionate **Computer Science enthusiast** diving deep into **Cybersecurity**, **AI**, **Game Development**, and **UI/UX Design**.  
+I’m a passionate **Computer Science enthusiast** diving deep into **System Programming**, **AI**, and **Game Development**.  
 
 💡 I love turning complex ideas into meaningful digital solutions — blending creativity with technology to make a real impact.  
 Let’s innovate, collaborate, and build something extraordinary together! ⚡  
@@ -28,19 +28,17 @@ Let’s innovate, collaborate, and build something extraordinary together! ⚡
 ## 🧰 Tech Stack  
 
 ### 💻 Languages  
-`Python 🐍` | `Java ☕` | `C++ 🔗` | `JavaScript ⚡`
-
+`Python 🐍` | `Java ☕` | `C 🔗` | 
 ### ⚙️ Development Tools  
 `Git & GitHub 🔥` | `VS Code 🖥️` | `Linux 🐧` | `Bash 💻`|
 
 ### 🎨 Design Tools  
 `Figma 🎨` | `Adobe XD 🖌️` | `Canva 📐` | 
 
-### 🌐 Domains of Interest  
-- 🎮 **Game Development:** Unity, Unreal Engine  
-- 🔐 **Cybersecurity:** Ethical Hacking, CTFs  
+### 🌐 Domains of Interest    
 - 📊 **Data Analytics:** Pandas, NumPy, Power BI  
 - 🤖 **AI & ML:** Neural Networks, Automation  
+-💻 **Full-Stack & Backend:** Java, Python, C, HTML, CSS, JavaScript (Basics), APIs & Databases (Learning)
 
 ---
 
@@ -107,10 +105,4 @@ Let’s innovate, collaborate, and build something extraordinary together! ⚡
 ---
 <p align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Malavika-Krishnan/Malavika-Krishnan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Malavika-Krishnan/Malavika-Krishnan/output/github-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Malavika-Krishnan/Malavika-Krishnan/output/github-snake-dark.svg" />
-</picture>
-</p>
 
