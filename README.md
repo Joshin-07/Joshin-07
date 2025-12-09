@@ -83,7 +83,11 @@ Let’s innovate, collaborate, and build something extraordinary together! ⚡
 </div>
 
 ---
+<h2 align="center"><b>Github Stats</b></h2>
+<img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=Joshin-07&theme=transparent&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_border=true" alt="Top Languages">
 
+
+---
 
 
 <p align="center">
