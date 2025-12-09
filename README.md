@@ -86,7 +86,7 @@ Let’s innovate, collaborate, and build something extraordinary together! ⚡
 ## 🌐 Connect With Me  
 
 <div align="center">
-  <a href="www.linkedin.com/in/joshin-k-thomas" target="_blank">
+  <a href="https://www.linkedin.com/in/joshin-k-thomas/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="mailto:joshinkthomas07@gmail.com" target="_blank">
